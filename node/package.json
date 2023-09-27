@@ -1,0 +1,13 @@
+{
+  "name": "docker-playground",
+  "version": "0.0.1",
+  "description": "A simple web service with Node.js, docker-compose and Jenkins to practice Docker container CI/CD",
+  "author": "HewonJeong <hewon.jng@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
